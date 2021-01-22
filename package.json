@@ -1,0 +1,19 @@
+{
+  "name": "mainichi_rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsdom": "^16.4.0",
+    "rss-generator": "0.0.3"
+  }
+}
